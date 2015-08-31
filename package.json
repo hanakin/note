@@ -1,0 +1,35 @@
+{
+  "name": "note",
+  "version": "0.1.0",
+  "description": "A Static Blog (Not unlike Jekyll) built with node.js and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanakin/note.git"
+  },
+  "keywords": [
+    "static",
+    "blog",
+    "site",
+    "express",
+    "js",
+    "javascript",
+    "node",
+    "gulp",
+    "rotory",
+    "note",
+    "jekyll"
+  ],
+  "author": "hanakin (Michael Miday) midaym@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanakin/note/issues"
+  },
+  "homepage": "https://github.com/hanakin/note",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
