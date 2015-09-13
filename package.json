@@ -2,7 +2,7 @@
   "name": "note",
   "version": "0.1.0",
   "description": "A Static Blog (Not unlike Jekyll) built with node.js and expressjs",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
