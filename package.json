@@ -1,8 +1,8 @@
 {
   "name": "note",
   "version": "0.1.0",
-  "description": "A Static Blog (Not unlike Jekyll) built with node.js and expressjs",
-  "main": "index.js",
+  "description": "A dynamic flat file markdown based blogging system that leverages the github repo as its database using vue.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,14 +14,15 @@
     "static",
     "blog",
     "site",
-    "express",
+    "vue.js",
     "js",
     "javascript",
-    "node",
+    "github",
     "gulp",
     "rotory",
     "note",
-    "jekyll"
+    "jekyll",
+    "markdown"
   ],
   "author": "hanakin (Michael Miday) midaym@gmail.com",
   "license": "MIT",
@@ -30,6 +31,22 @@
   },
   "homepage": "https://github.com/hanakin/note",
   "dependencies": {
-    "express": "^4.13.3"
+    "bootstrap": "git://github.com/twbs/bootstrap.git#v4-dev",
+    "js-yaml": "^3.4.6",
+    "marked": "^0.3.5",
+    "octicons": "^3.1.0",
+    "vue": "^1.0.10",
+    "vue-resource": "^0.1.17",
+    "vue-router": "^0.7.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-svgmin": "^1.2.0",
+    "gulp-svgstore": "^5.0.5",
+    "laravel-elixir": "^4.0.4",
+    "path": "^0.12.7"
   }
 }
