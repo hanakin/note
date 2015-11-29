@@ -1,0 +1,64 @@
+doctype html
+html(class="no-js", lang="en")
+	head
+		meta(charset="utf-8")
+		meta(http-equiv="X-UA-Compatible", content="IE=edge,chrome=1")
+		meta(name="description", content="Personal blog and digital playground of full stack designer Michael Miday")
+		meta(name="viewport", content="width=device-width, initial-scale=1")
+
+		block meta
+
+		block title
+
+		link(rel="apple-touch-icon", href="apple-touch-icon.png")
+
+		link(rel="stylesheet", href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css")
+		link(rel="stylesheet", href="https://cdn.rawgit.com/github/octicons/master/octicons/octicons.css")
+		link(rel="stylesheet", href="assets/css/app.css")
+
+		block styles
+
+	body
+		include ../assets/imgs/svg/octicons.svg
+
+		nav(class="navbar navbar-fixed-top navbar-light bg-faded", role="navigation")
+			.container
+				a(class="navbar-brand", href="#")
+					svg(class="icon icon-lg")
+						use(xlink:href="#octicon-mark-github")  
+					//i(class="icon octicon-mark-github")  
+					| GitNote
+				ul(class="nav navbar-nav pull-right")
+					li(class="nav-item active")
+						a(class="nav-link", href="#")
+							svg(class="icon icon-lg")
+								use(xlink:href="#octicon-home")
+							// i(class="icon octicon-home")
+					li(class="nav-item")
+						a(class="nav-link", href="#")
+							svg(class="icon icon-lg")
+								use(xlink:href="#octicon-search")
+							// i(class="icon octicon-search")
+					li(class="nav-item")
+						a(class="nav-link", href="#")
+							svg(class="icon icon-lg")
+								use(xlink:href="#octicon-mention")
+							// i(class="icon octicon-mention")
+					li(class="nav-item")
+						a(class="nav-link", href="#")
+							svg(class="icon icon-lg")
+								use(xlink:href="#octicon-mail")
+							// i(class="icon octicon-mail")
+
+		.container(id="app")
+			block main
+
+		footer
+			block footer
+
+		<!-- jQuery -->
+		script(src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js")
+		script(src="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/js/bootstrap.js")
+		script(src="assets/js/bundle.js")
+		block scripts
+

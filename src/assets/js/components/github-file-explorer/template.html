@@ -1,0 +1,33 @@
+<div class="row m-b-md">
+    <div class="col-md-12">
+        <caption>{{ path }}</caption>
+    </div>
+    <div class="col-md-10">
+        <h5>Name</h5>
+    </div>
+    <div class="col-md-2">
+       <button class="btn btn-success btn-sm right" @click="goBack()" v-if="path !== '/'">Go Back</button>
+    </div>
+</div>
+<div class="row m-b-md">
+    <div class="col-md-12">
+        <div class="list-group">
+            <a href="{{ file.path }}" class="list-group-item directory" v-for="file in sortedFiles" v-if="file.type === 'dir'" @click.prevent="changePath(file.path)">
+                <svg class="icon"><use xlink:href="#octicon-file-directory"></use></svg>  {{ file.name }}
+            </a>
+            <a href="#post" class="list-group-item file" v-for="file in sortedFiles" v-if="file.type === 'file'" @click="loadPost(file.download_url, file.sha)">
+                <svg class="icon"><use xlink:href="#octicon-file-code"></use></svg> {{ file.name }}
+                <svg class="icon pull-right"><use xlink:href="#octicon-eye"></use></svg> 
+            </a>
+        </div>
+    </div>
+</div>
+<div class="row m-b-md">
+    <div class="col-md-12">
+        <h5 v-if="content">Posted on: {{ date }}</h5>
+    </div>
+    <div id="post" class="col-md-12 flow-text" v-if="content" v-html="content | marked"></div>
+</div>
+<div class="row">
+    <pre v-for="file in sortedFiles">{{ file | json 4 }}</pre>
+</div>

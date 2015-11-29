@@ -1,0 +1,18 @@
+extends layout.jade
+
+block title
+title Vue.js Github Explorer Blog
+
+block main
+
+    .row
+        form(class="col-md-12", id="changeRepoForm", @submit.prevent="changeRepo()")
+            .row
+                .form-group
+                    label(for="fullRepoName", class="active") Full Repo Name
+                    input(type="text", name="fullRepoName", v-model="fullRepoName", class="form-control")
+                .form-group
+                    input(type="submit", class="btn btn-success", value="Get repo filesystem!")
+
+    hr
+    github-file-explorer(:username="username", :repo="repo")
