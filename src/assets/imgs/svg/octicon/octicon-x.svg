@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-948.000000, -1205.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-x" transform="translate(144.000000, 576.000000)">
+                    <g id="icon-grid-copy-18"></g>
+                    <path d="M25.9477612,23.75 L31.5,29.3022388 L29.3022388,31.5 L23.75,25.9477612 L18.1977612,31.5 L16,29.3022388 L21.5522388,23.75 L16,18.1977612 L18.1977612,16 L23.75,21.5522388 L29.3022388,16 L31.5,18.1977612 L25.9477612,23.75 L25.9477612,23.75 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

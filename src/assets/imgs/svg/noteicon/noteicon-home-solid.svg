@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-home-solid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-372.000000, -324.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-home-solid" transform="translate(336.000000, 288.000000)">
+                    <g id="icon-grid-copy-111"></g>
+                    <path d="M35.4779299,22.82 L31.5319299,19.159 L31.5319299,14.603 L28.2779299,14.603 L28.2779299,16.149 L23.8029299,12 L12.1279299,22.82 C11.9649299,22.983 11.9649299,23.227 12.0869299,23.389 C12.2499299,23.552 12.4939299,23.552 12.6559299,23.43 L14.4049299,21.803 L14.4049299,36.162 L20.9129299,36.162 L20.9129299,26.359 C20.9129299,25.912 21.2789299,25.586 21.6859299,25.586 L25.7939299,25.586 C26.2409299,25.586 26.5669299,25.952 26.5669299,26.359 L26.5669299,36.162 L33.0749299,36.162 L33.0749299,21.803 L34.8239299,23.43 C34.9049299,23.511 34.9869299,23.552 35.1089299,23.552 C35.2309299,23.552 35.3119299,23.511 35.3939299,23.43 C35.6379299,23.227 35.6379299,22.983 35.4749299,22.82 L35.4779299,22.82 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

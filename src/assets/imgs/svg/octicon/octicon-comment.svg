@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-comment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1137.000000, -723.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-comment" transform="translate(336.000000, 96.000000)">
+                    <g id="icon-grid-copy-138"></g>
+                    <path d="M33,14 L15,14 C14.1796875,14 13.5,14.6880787 13.5,15.5185185 L13.5,27.6666667 C13.5,28.4971065 14.1796875,29.1851852 15,29.1851852 L18,29.1851852 L18,34.5 L23.25,29.1851852 L33,29.1851852 C33.8203125,29.1851852 34.5,28.4971065 34.5,27.6666667 L34.5,15.5185185 C34.5,14.6880787 33.8203125,14 33,14 L33,14 Z M33,27.5 L22.5,27.5 L19.5,30.5 L19.5,27.5 L15,27.5 L15,15.5 L33,15.5 L33,27.5 L33,27.5 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

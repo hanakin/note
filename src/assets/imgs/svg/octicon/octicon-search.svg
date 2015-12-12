@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-945.000000, -1105.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-search" transform="translate(144.000000, 480.000000)">
+                    <g id="icon-grid-copy-34"></g>
+                    <path d="M35.0604324,32.4453125 L29.3401928,26.703125 C30.395155,25.2265625 31.0046887,23.4453125 31.0046887,21.5 C31.0046887,16.53125 26.9723886,12.5 22.0023444,12.5 C17.0323001,12.5 13,16.53125 13,21.5 C13,26.46875 17.0323001,30.5 22.0023444,30.5 C23.9481636,30.5 25.7298776,29.890625 27.2068247,28.8359375 L32.9505079,34.5546875 C33.2318312,34.859375 33.6303725,35 34.0054702,35 C34.3805679,35 34.7791091,34.859375 35.0604324,34.5546875 C35.6465225,33.96875 35.6465225,33.03125 35.0604324,32.4453125 L35.0604324,32.4453125 Z M22,28.5 C18.1395349,28.5 15,25.3604651 15,21.5 C15,17.6395349 18.1395349,14.5 22,14.5 C25.8604651,14.5 29,17.6395349 29,21.5 C29,25.3604651 25.8604651,28.5 22,28.5 L22,28.5 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

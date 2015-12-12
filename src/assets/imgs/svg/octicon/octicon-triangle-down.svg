@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="10px" viewBox="0 0 18 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-triangle-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1187.000000, -1160.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-triangle-down" transform="translate(384.000000, 528.000000)">
+                    <g id="icon-grid-copy-12"></g>
+                    <path d="M15,19.5 L24,28.5 L33,19.5 L15,19.5 L15,19.5 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

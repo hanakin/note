@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="17px" viewBox="0 0 24 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-keyboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1184.000000, -917.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-keyboard" transform="translate(384.000000, 288.000000)">
+                    <g id="icon-grid-copy-76"></g>
+                    <path d="M27,20.5 L25.5,20.5 L25.5,19 L27,19 L27,20.5 L27,20.5 Z M16.5,22 L15,22 L15,23.5 L16.5,23.5 L16.5,22 L16.5,22 Z M24,19 L22.5,19 L22.5,20.5 L24,20.5 L24,19 L24,19 Z M18,19 L15,19 L15,20.5 L18,20.5 L18,19 L18,19 Z M30,29.5 L33,29.5 L33,28 L30,28 L30,29.5 L30,29.5 Z M24,23.5 L25.5,23.5 L25.5,22 L24,22 L24,23.5 L24,23.5 Z M18,28 L15,28 L15,29.5 L18,29.5 L18,28 L18,28 Z M30,19 L28.5,19 L28.5,20.5 L30,20.5 L30,19 L30,19 Z M33,19 L31.5,19 L31.5,20.5 L33,20.5 L33,19 L33,19 Z M30,26.5 L33,26.5 L33,22 L30,22 L30,26.5 L30,26.5 Z M36,17.5 L36,31 C36,31.8203125 35.3203125,32.5 34.5,32.5 L13.5,32.5 C12.6796875,32.5 12,31.8203125 12,31 L12,17.5 C12,16.6796875 12.6796875,16 13.5,16 L34.5,16 C35.3203125,16 36,16.6796875 36,17.5 L36,17.5 Z M34.5,17.5 L13.5,17.5 L13.5,31 L34.5,31 L34.5,17.5 L34.5,17.5 Z M21,23.5 L22.5,23.5 L22.5,22 L21,22 L21,23.5 L21,23.5 Z M21,19 L19.5,19 L19.5,20.5 L21,20.5 L21,19 L21,19 Z M18,23.5 L19.5,23.5 L19.5,22 L18,22 L18,23.5 L18,23.5 Z M19.5,29.5 L28.5,29.5 L28.5,28 L19.5,28 L19.5,29.5 L19.5,29.5 Z M27,23.5 L28.5,23.5 L28.5,22 L27,22 L27,23.5 L27,23.5 Z M16.5,25 L15,25 L15,26.5 L16.5,26.5 L16.5,25 L16.5,25 Z M24,25 L24,26.5 L25.5,26.5 L25.5,25 L24,25 L24,25 Z M21,25 L21,26.5 L22.5,26.5 L22.5,25 L21,25 L21,25 Z M19.5,25 L18,25 L18,26.5 L19.5,26.5 L19.5,25 L19.5,25 Z M27,26.5 L28.5,26.5 L28.5,25 L27,25 L27,26.5 L27,26.5 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

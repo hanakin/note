@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-midaym</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-36.000000, -276.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-midaym" transform="translate(0.000000, 240.000000)">
+                    <g id="icon-grid-copy-119"></g>
+                    <path d="M16,22 L20,26 L20,20 L12,12 L12,36 L16,36 L16,22 L16,22 Z M15,19 L19,23 L19,21 L13,15 L13,35 L15,35 L15,19 Z M26,22 L30,26 L30,20 L22,12 L22,36 L26,36 L26,22 L26,22 Z M25,19 L29,23 L29,21 L23,15 L23,35 L25,35 L25,19 Z M32,17 L36,12 L36,36 L32,36 L32,17 L32,17 Z M35,15 L35,35 L33,35 L33,17.5 L35,15 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

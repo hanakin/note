@@ -19,42 +19,39 @@ html(class="no-js", lang="en")
 		block styles
 
 	body
-		include ../assets/imgs/svg/octicons.svg
+		include ../assets/imgs/svg/note-icons.svg
 
-		nav(class="navbar navbar-fixed-top navbar-light bg-faded", role="navigation")
-			.container
-				a(class="navbar-brand", href="#")
-					svg(class="icon icon-lg")
-						use(xlink:href="#octicon-mark-github")  
-					//i(class="icon octicon-mark-github")  
-					| GitNote
-				ul(class="nav navbar-nav pull-right")
-					li(class="nav-item active")
-						a(class="nav-link", href="#")
-							svg(class="icon icon-lg")
-								use(xlink:href="#octicon-home")
-							// i(class="icon octicon-home")
-					li(class="nav-item")
-						a(class="nav-link", href="#")
-							svg(class="icon icon-lg")
-								use(xlink:href="#octicon-search")
-							// i(class="icon octicon-search")
-					li(class="nav-item")
-						a(class="nav-link", href="#")
-							svg(class="icon icon-lg")
-								use(xlink:href="#octicon-mention")
-							// i(class="icon octicon-mention")
-					li(class="nav-item")
-						a(class="nav-link", href="#")
-							svg(class="icon icon-lg")
-								use(xlink:href="#octicon-mail")
-							// i(class="icon octicon-mail")
+		.wrap(id="app")
 
-		.container(id="app")
-			block main
+			nav(class="navbar navbar-fixed-top navbar-light bg-faded", role="navigation")
+				.container
+					a(class="navbar-brand", href="#")
+						svg(class="icon icon-lg")
+							use(xlink:href="#noteicon-note-solid")
+						| GitNote
+					//- ul(class="nav navbar-nav pull-right")
+					//- 	li(class="nav-item")
+					//- 		a(href="", class="nav-link", v-link="{ path: '/' }, activeClass: 'active'")
+					//- 			svg(class="icon icon-lg")
+					//- 				use(xlink:href="#octicon-home")
+					//- 	li(class="nav-item")
+					//- 		a(href="", class="nav-link", v-link="{ path: '/archive' }, activeClass: 'active'")
+					//- 			svg(class="icon icon-lg")
+					//- 				use(xlink:href="#octicon-search")
+					//- 	li(class="nav-item")
+					//- 		a(href="", class="nav-link", v-link="{ path: '/about' }, activeClass: 'active'")
+					//- 			svg(class="icon icon-lg")
+					//- 				use(xlink:href="#octicon-mention")
+					//- 	li(class="nav-item")
+					//- 		a(href="", class="nav-link", v-link="{ path: '/contact' }, activeClass: 'active'")
+					//- 			svg(class="icon icon-lg")
+					//- 				use(xlink:href="#octicon-mail")
 
-		footer
-			block footer
+			.container(id="page")
+				block main
+
+			footer
+				block footer
 
 		<!-- jQuery -->
 		script(src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js")

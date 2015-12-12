@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-check-solid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-84.000000, -708.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-check-solid" transform="translate(48.000000, 672.000000)">
+                    <g id="icon-grid-copy-77"></g>
+                    <path d="M35.57625,12.1830409 C35.12425,11.8640409 34.50125,11.9730409 34.18325,12.4240409 L19.36725,33.4520409 L13.70725,27.7930409 C13.31725,27.4020409 12.68325,27.4020409 12.29325,27.7930409 C11.90225,28.1850409 11.90225,28.8170409 12.29325,29.2070409 L18.79325,35.7070409 C18.98125,35.8950409 19.23625,36.0000409 19.50025,36.0000409 C19.81825,36.0000409 20.12725,35.8470409 20.31725,35.5760409 L35.81725,13.5760409 C36.13525,13.1240409 36.02725,12.5000409 35.57625,12.1830409 L35.57625,12.1830409 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

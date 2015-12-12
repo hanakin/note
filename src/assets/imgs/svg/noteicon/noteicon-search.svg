@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-324.000000, -180.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-search" transform="translate(288.000000, 144.000000)">
+                    <g id="icon-grid-copy-131"></g>
+                    <path d="M34.958,35.23 L28.256,28.211 C29.977,26.49 31.018,24.136 31.018,21.509 C31.018,16.256 26.761,12 21.509,12 C16.257,12 12,16.257 12,21.509 C12,26.761 16.257,31.018 21.509,31.018 C23.818,31.018 25.901,30.203 27.577,28.844 L34.324,35.863 C34.415,35.954 34.55,35.999 34.641,35.999 C34.732,35.999 34.867,35.954 34.958,35.863 C35.139,35.682 35.139,35.41 34.958,35.229 L34.958,35.23 Z M12.905,21.509 C12.905,16.754 16.754,12.905 21.509,12.905 C26.264,12.905 30.113,16.754 30.113,21.509 C30.113,26.264 26.264,30.113 21.509,30.113 C16.754,30.113 12.905,26.264 12.905,21.509 L12.905,21.509 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

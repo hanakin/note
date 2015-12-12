@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-flame</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1235.000000, -818.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-flame" transform="translate(432.000000, 192.000000)">
+                    <g id="icon-grid-copy-105"></g>
+                    <path d="M22.8728333,13 C24.0614679,16.126193 23.4433779,17.8292683 22.1121072,19.1823966 C20.661973,20.6755037 18.4035673,21.795334 16.8107969,23.9883351 C14.6950274,26.9045599 14.338437,33.3202545 21.969471,35 C18.7601577,33.3435843 18.0707496,28.5376458 21.5415626,25.5281018 C20.6382003,28.4443266 22.3022887,30.3107105 24.3705129,29.6341463 C26.3911917,28.9575822 27.7224624,30.3806999 27.6749171,32.0137858 C27.6511444,33.1336161 27.1994632,34.0901379 26.0346013,34.6267232 C31.0030939,33.7635207 33,29.7274655 33,26.6479321 C33,22.5885472 29.3152328,22.028632 31.1695027,18.6224814 C28.9586424,18.8091198 28.1979163,20.2322375 28.4118705,22.5652174 C28.5545066,24.1049841 26.9141909,25.154825 25.7017836,24.4549311 C24.7271033,23.8716861 24.750876,22.7518558 25.6066929,21.911983 C27.4371901,20.1389183 28.1503709,16.0562036 22.8728333,13 L22.8728333,13 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

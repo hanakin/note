@@ -13,21 +13,20 @@
 }
 
 .icon {
-	padding-right: 4px;
+	margin-right: 4px;
 	fill: currentColor;
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    text-align: center;
-    vertical-align: -16%;
-    width: 24px;
-    height: 24px;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	text-align: center;
+	vertical-align: -16%;
+	width: 1em;
+	height: 1em;
 }
 
 .icon-lg {
-	height: 32px;
-	width: 32px;
+	font-size: 32px;
 }
 
 a .icon { color: inherit; }
@@ -45,7 +44,7 @@ a .icon { color: inherit; }
 		margin: 0;
 		.icon { color: #333333; }
 
-		&:hover {
+		&:hover, &.active {
 			background-color: #4078c0;
 			.icon { 
 				color: #FFFFFF;
@@ -61,6 +60,12 @@ a .icon { color: inherit; }
 	color: #333333;
 	padding: 0;
 	margin: 0;
+	font-size: 32px;
+	
+	.icon {
+		vertical-align: -8%;
+		margin-right: 8px;
+	}
 
 	&:hover,
 	&:focus {

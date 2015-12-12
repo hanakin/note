@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="22px" viewBox="0 0 24 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-dialouge-dots</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-372.000000, -373.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-dialouge-dots" transform="translate(336.000000, 336.000000)">
+                    <g id="icon-grid-copy-105"></g>
+                    <path d="M33.6,13 L14.4,13 C13.08,13 12,14.08 12,15.4 L12,28.6 C12,29.92 13.08,31 14.4,31 L20.24,31 L23.72,34.88 C23.8,34.96 23.92,35 24,35 C24.08,35 24.24,34.96 24.28,34.88 L27.76,31 L33.6,31 C34.92,31 36,29.92 36,28.6 L36,15.4 C36,14.08 34.92,13 33.6,13 L33.6,13 Z M18.4,23.4 C17.52,23.4 16.8,22.68 16.8,21.8 C16.8,20.92 17.52,20.2 18.4,20.2 C19.28,20.2 20,20.92 20,21.8 C20,22.68 19.28,23.4 18.4,23.4 L18.4,23.4 Z M24,23.4 C23.12,23.4 22.4,22.68 22.4,21.8 C22.4,20.92 23.12,20.2 24,20.2 C24.88,20.2 25.6,20.92 25.6,21.8 C25.6,22.68 24.88,23.4 24,23.4 L24,23.4 Z M29.6,23.4 C28.72,23.4 28,22.68 28,21.8 C28,20.92 28.72,20.2 29.6,20.2 C30.48,20.2 31.2,20.92 31.2,21.8 C31.2,22.68 30.48,23.4 29.6,23.4 L29.6,23.4 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

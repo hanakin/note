@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-note-solid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-180.000000, -756.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-note-solid" transform="translate(144.000000, 720.000000)">
+                    <g id="icon-grid-copy-165"></g>
+                    <path d="M24,12 C17.383,12 12,17.383 12,24 C12,30.617 17.383,36 24,36 C30.617,36 36,30.617 36,24 C36,17.383 30.617,12 24,12 L24,12 Z M29.942,22.749 C29.854,22.904 29.688,23 29.509,23 L25.453,23 L24.451,24 L28.055,24 C28.331,24 28.555,24.224 28.555,24.5 C28.555,24.776 28.331,25 28.055,25 L23.451,25 L22.451,26 L26.555,26 C26.762,26 26.947,26.127 27.021,26.32 C27.095,26.513 27.044,26.731 26.891,26.87 C25.176,28.429 23.045,29.36 21.191,29.36 C20.51,29.36 19.922,29.223 19.48,28.971 L18.184,30.267 C17.988,30.463 17.672,30.462 17.477,30.267 C17.282,30.072 17.282,29.755 17.477,29.559 L18.78,28.256 C18.343,27.489 18.377,26.333 18.902,24.923 C19.492,23.338 20.609,21.673 22.048,20.235 C23.598,18.684 25.278,17.572 26.334,17.049 C26.489,16.972 26.673,16.981 26.82,17.072 C26.967,17.163 27.056,17.324 27.056,17.497 L27.056,19.975 L29.6,17.425 C29.788,17.237 30.121,17.237 30.308,17.425 C31.375,18.498 31.239,20.487 29.942,22.749 L29.942,22.749 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

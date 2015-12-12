@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-sign-out</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1184.000000, -1105.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-sign-out" transform="translate(384.000000, 480.000000)">
+                    <g id="icon-grid-copy-43"></g>
+                    <path d="M30,25.5 L30,22.5 L24,22.5 L24,19.5 L30,19.5 L30,16.5 L36,21 L30,25.5 L30,25.5 Z M27,30 L21,30 L21,16.5 L15,13.5 L27,13.5 L27,18 L28.5,18 L28.5,13.5 C28.5,12.6796875 27.8203125,12 27,12 L13.5,12 C12.6796875,12 12,12.6796875 12,13.5 L12,30.5625 C12,31.1484375 12.328125,31.6640625 12.8203125,31.921875 L21,36 L21,31.5 L27,31.5 C27.8203125,31.5 28.5,30.8203125 28.5,30 L28.5,24 L27,24 L27,30 L27,30 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

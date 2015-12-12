@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-circle-close-solid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-84.000000, -660.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-circle-close-solid" transform="translate(48.000000, 624.000000)">
+                    <g id="icon-grid-copy-159"></g>
+                    <path d="M32.4815,15.4965 C27.7735,10.8345 20.1585,10.8345 15.4965,15.4965 C10.8345,20.1585 10.8345,27.7735 15.4965,32.4815 C20.1585,37.1895 27.7735,37.1435 32.4815,32.4815 C37.1895,27.8195 37.1435,20.1585 32.4815,15.4965 L32.4815,15.4965 Z M27.4045,28.6965 L23.9895,25.2815 L20.3895,28.8815 C20.0205,29.2505 19.4665,29.2505 19.0975,28.8815 C18.7285,28.5125 18.7285,27.9585 19.0975,27.5895 L22.6975,23.9895 L19.2825,20.5745 C18.9135,20.2055 18.9135,19.6515 19.2825,19.2825 C19.6515,18.9135 20.2055,18.9135 20.5745,19.2825 L23.9895,22.6975 L27.2665,19.4205 C27.6355,19.0515 28.1895,19.0515 28.5585,19.4205 C28.9275,19.7895 28.9275,20.3435 28.5585,20.7125 L25.2815,23.9895 L28.6965,27.4045 C29.0655,27.7735 29.0655,28.3275 28.6965,28.6965 C28.3735,29.0655 27.7735,29.0655 27.4045,28.6965 L27.4045,28.6965 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-pulse</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-849.000000, -1060.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-pulse" transform="translate(48.000000, 432.000000)">
+                    <g id="icon-grid-copy-46"></g>
+                    <path d="M30.75,24.5988062 L26.6997187,20.6999562 L23.4001406,25.3502906 L21.75,15 L17.0727656,24.5988062 L13.5,24.5988062 L13.5,27.6003844 L18.9001406,27.6003844 L20.25,24.9005531 L21.5998594,33 L27,25.3502906 L29.3994141,27.6003844 L34.5,27.6003844 L34.5,24.5988062 L30.75,24.5988062 L30.75,24.5988062 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="20px" viewBox="0 0 23 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-package</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1041.000000, -1011.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-package" transform="translate(240.000000, 384.000000)">
+                    <g id="icon-grid-copy-59"></g>
+                    <path d="M13,18.6108426 L13,29.871489 C13,30.5546663 13.4453125,31.1436122 14.125,31.3320749 L23.875,33.9469949 C24.109375,34.0176684 24.390625,34.0176684 24.625,33.9469949 L34.375,31.3320749 C35.0546875,31.1436122 35.5,30.5546663 35.5,29.871489 L35.5,18.6108426 C35.5,17.9276654 35.0546875,17.3387194 34.375,17.1502567 L24.625,14.5353368 C24.390625,14.4882211 24.109375,14.4882211 23.875,14.5353368 L14.125,17.1502567 C13.4453125,17.3387194 13,17.9276654 13,18.6108426 L13,18.6108426 Z M23.5,32 L14.5,29.6168224 L14.5,19.5 L23.5,21.9065421 L23.5,32 L23.5,32 Z M14.5,17.9772727 L18.25,17 L28,19.5227273 L24.25,20.5 L14.5,17.9772727 L14.5,17.9772727 Z M34,29.6168224 L25,32 L25,21.9065421 L28,21.088785 L28,24.7336449 L31,23.9392523 L31,20.2943925 L34,19.5 L34,29.6168224 L34,29.6168224 Z M31.4411765,19 L21.5,16.3206897 L24.5588235,15.5 L34.5,18.1793103 L31.4411765,19 L31.4411765,19 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

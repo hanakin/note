@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-circle-slash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1329.000000, -674.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-circle-slash" transform="translate(528.000000, 48.000000)">
+                    <g id="icon-grid-copy-147"></g>
+                    <path d="M24,13.5 C18.2109375,13.5 13.5,18.2109375 13.5,24 C13.5,29.7890625 18.2109375,34.5 24,34.5 C29.7890625,34.5 34.5,29.7890625 34.5,24 C34.5,18.2109375 29.7890625,13.5 24,13.5 L24,13.5 Z M24.2052811,15.5 C26.1848382,15.5 28.0212947,16.1678024 29.5,17.2887564 L17.2887564,29.5 C16.1678024,28.0212947 15.5,26.1848382 15.5,24.2052811 C15.5,19.411414 19.411414,15.5 24.2052811,15.5 L24.2052811,15.5 Z M24.2947189,33 C22.3151618,33 20.4787053,32.3321976 19,31.2112436 L31.2112436,19 C32.3321976,20.4787053 33,22.3151618 33,24.2947189 C33,29.088586 29.088586,33 24.2947189,33 L24.2947189,33 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

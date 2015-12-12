@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1235.000000, -869.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-heart" transform="translate(432.000000, 240.000000)">
+                    <g id="icon-grid-copy-94"></g>
+                    <path d="M31.8046875,17.5 C31.03125,16.5625 29.9296875,16.0703125 28.5,16 C27.046875,16 25.96875,16.6328125 25.1953125,17.5 C24.421875,18.3671875 24.0234375,18.8828125 24,19 C23.9765625,18.8828125 23.578125,18.3671875 22.8046875,17.5 C22.03125,16.6328125 21.046875,16 19.5,16 C18.0703125,16.0703125 16.96875,16.5625 16.1953125,17.5 C15.421875,18.4140625 15.0234375,19.421875 15,20.5 C15,21.2734375 15.140625,22.7734375 16.0078125,24.5078125 C16.875,26.2421875 19.5234375,28.9140625 24,32.5 C28.4765625,28.9140625 31.1484375,26.2421875 32.015625,24.5078125 C32.8828125,22.7734375 33,21.25 33,20.5 C32.9765625,19.421875 32.578125,18.4140625 31.8046875,17.4765625 L31.8046875,17.5 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

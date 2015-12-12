@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-eye</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1328.000000, -772.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-eye" transform="translate(528.000000, 144.000000)">
+                    <g id="icon-grid-copy-119"></g>
+                    <path d="M24.09375,15 C16.5,15 12,24 12,24 C12,24 16.5,33 24.09375,33 C31.5,33 36,24 36,24 C36,24 31.5,15 24.09375,15 L24.09375,15 Z M24,30 C20.6953125,30 18,27.328125 18,24 C18,20.6953125 20.6953125,18 24,18 C27.328125,18 30,20.6953125 30,24 C30,27.328125 27.328125,30 24,30 L24,30 Z M27,24 C27,25.6640625 25.6640625,27 24,27 C22.3359375,27 21,25.6640625 21,24 C21,22.3359375 22.3359375,21 24,21 C25.6640625,21 27,22.3359375 27,24 L27,24 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

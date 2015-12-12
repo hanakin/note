@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-pencil</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1138.000000, -1011.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-pencil" transform="translate(336.000000, 384.000000)">
+                    <g id="icon-grid-copy-54"></g>
+                    <path d="M14,30 L14,34.5 L18.5,34.5 L30.5,22.5 L26,18 L14,30 L14,30 Z M18.5,33 L15.5,33 L15.5,30 L17,30 L17,31.5 L18.5,31.5 L18.5,33 L18.5,33 Z M34.0531915,19.0221277 L32.0753191,21 L27.5,16.4246809 L29.4778723,14.4468085 C30.073617,13.8510638 31.0268085,13.8510638 31.6225532,14.4468085 L34.0531915,16.8774468 C34.6489362,17.4731915 34.6489362,18.426383 34.0531915,19.0221277 L34.0531915,19.0221277 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

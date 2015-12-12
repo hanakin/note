@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-132.000000, -375.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-heart" transform="translate(96.000000, 336.000000)">
+                    <g id="icon-grid-copy-176"></g>
+                    <path d="M35.956204,21.646 C35.633204,17.815 32.864204,15 29.448204,15 C27.186204,15 25.110204,16.246 23.910204,18.185 C22.756204,16.2 20.772204,15 18.556204,15 C15.141204,15 12.371204,17.815 12.048204,21.646 C12.002204,21.831 11.910204,22.708 12.233204,24.184 C12.741204,26.307 13.895204,28.199 15.556204,29.722 L23.910204,37.291 L32.402204,29.722 C34.064204,28.199 35.217204,26.307 35.725204,24.184 C36.094204,22.707 36.002204,21.83 35.956204,21.646 L35.956204,21.646 Z M34.848204,23.954 C34.386204,25.892 33.325204,27.646 31.802204,29.031 L23.956204,36.093 L16.202204,29.031 C14.679204,27.646 13.617204,25.893 13.156204,23.954 C12.833204,22.569 12.971204,21.785 12.971204,21.785 L12.971204,21.739 C13.248204,18.37 15.602204,15.924 18.556204,15.924 C20.725204,15.924 22.618204,17.262 23.541204,19.386 L23.956204,20.401 L24.371204,19.386 C25.248204,17.309 27.233204,15.924 29.448204,15.924 C32.402204,15.924 34.710204,18.37 35.033204,21.786 C35.033204,21.786 35.171204,22.571 34.848204,23.955 L34.848204,23.954 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

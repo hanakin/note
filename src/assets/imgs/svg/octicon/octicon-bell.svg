@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="23px" viewBox="0 0 22 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-bell</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1281.000000, -626.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-bell" transform="translate(480.000000, 0.000000)">
+                    <g id="icon-grid-copy-161"></g>
+                    <path d="M34.5,29.5 L34.5,31 L13.5,31 L13.5,29.5 L14.6015625,28.6328125 C15.75,27.484375 15.8203125,24.8125 16.3828125,22 C17.53125,16.3515625 22.5,14.5 22.5,14.5 C22.5,13.6796875 23.1796875,13 24,13 C24.8203125,13 25.5,13.6796875 25.5,14.5 C25.5,14.5 30.5859375,16.3515625 31.734375,22 C32.296875,24.8125 32.3671875,27.484375 33.515625,28.6328125 L34.5,29.5 L34.5,29.5 Z M24,35.5 C25.6640625,35.5 27,34.1640625 27,32.5 L21,32.5 C21,34.1640625 22.3359375,35.5 24,35.5 L24,35.5 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

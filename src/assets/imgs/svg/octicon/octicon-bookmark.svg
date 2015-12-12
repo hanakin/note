@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="18px" viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1383.000000, -628.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-bookmark" transform="translate(576.000000, 0.000000)">
+                    <g id="icon-grid-copy-159"></g>
+                    <path d="M19.5,33 L24,30 L28.5,33 L28.5,16.5 C28.5,15.6796875 27.8203125,15 27,15 L21,15 C20.1796875,15 19.5,15.6796875 19.5,16.5 L19.5,33 L19.5,33 Z M21.1920918,19.5479912 L23.2512245,19.5254238 L23.8830038,17.6523299 C23.9532015,17.4492234 24.0467985,17.4492234 24.1169962,17.6523299 L24.7487755,19.5254238 L26.8079082,19.5479912 C27.0185014,19.5479912 27.0652998,19.6156934 26.9015052,19.7510978 L25.2167602,20.9246024 L25.8719388,22.7976963 C25.9187373,23.0008028 25.8485396,23.0459376 25.6847449,22.955668 L24,21.7821634 L22.3152551,22.955668 C22.1514604,23.0459376 22.0812627,23.0008028 22.1280612,22.7976963 L22.7832398,20.9246024 L21.0984948,19.7510978 C20.9347002,19.6156934 20.9814986,19.5479912 21.1920918,19.5479912 L21.1920918,19.5479912 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="24px" viewBox="0 0 17 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-light-bulb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1283.000000, -913.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-light-bulb" transform="translate(480.000000, 288.000000)">
+                    <g id="icon-grid-copy-81"></g>
+                    <path d="M23.75,12 C19.2265625,12 15.5,15.28125 15.5,19.5 C15.5,20.8828125 16.3203125,22.875 17,24 C19.015625,27.375 19.671875,28.171875 20,30 L20,31.5 L27.5,31.5 L27.5,30 C27.828125,28.171875 28.484375,27.375 30.5,24 C31.1796875,22.875 32,20.8828125 32,19.5 C32,15.28125 28.2734375,12 23.75,12 L23.75,12 Z M29.2109375,23.2265625 C28.8359375,23.8828125 28.5078125,24.421875 28.203125,24.890625 C26.9140625,27 26.328125,27.984375 26.0234375,29.7421875 C26,29.8125 26,29.90625 26,30 L21.5,30 C21.5,29.90625 21.5,29.8125 21.4765625,29.7421875 C21.171875,27.984375 20.5859375,27 19.296875,24.890625 C18.9921875,24.421875 18.6640625,23.8828125 18.2890625,23.2265625 C17.65625,22.171875 17,20.484375 17,19.5 C17,16.1953125 20.0234375,13.5 23.75,13.5 C25.578125,13.5 27.2890625,14.1328125 28.578125,15.28125 C29.8203125,16.40625 30.5,17.90625 30.5,19.5 C30.5,20.484375 29.84375,22.171875 29.2109375,23.2265625 L29.2109375,23.2265625 Z M20,33 L27.5,33 C27.1484375,34.7109375 25.5546875,36 23.75,36 C21.9453125,36 20.3515625,34.7109375 20,33 L20,33 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

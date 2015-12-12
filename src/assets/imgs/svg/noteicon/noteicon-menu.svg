@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-324.000000, -276.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-menu" transform="translate(288.000000, 240.000000)">
+                    <g id="icon-grid-copy-121"></g>
+                    <path d="M24,12 C17.4,12 12,17.4 12,24 C12,30.6 17.4,36 24,36 C30.6,36 36,30.6 36,24 C36,17.4 30.6,12 24,12 L24,12 Z M24,35.143 C17.871,35.143 12.857,30.129 12.857,24 C12.857,17.871 17.871,12.857 24,12.857 C30.129,12.857 35.143,17.871 35.143,24 C35.143,30.129 30.129,35.143 24,35.143 L24,35.143 Z M29.143,18.857 L18.857,18.857 C18.6,18.857 18.428,19.028 18.428,19.286 C18.428,19.544 18.599,19.715 18.857,19.715 L29.143,19.715 C29.4,19.715 29.572,19.544 29.572,19.286 C29.572,19.028 29.401,18.857 29.143,18.857 L29.143,18.857 Z M29.143,23.571 L18.857,23.571 C18.6,23.571 18.428,23.742 18.428,24 C18.428,24.258 18.599,24.429 18.857,24.429 L29.143,24.429 C29.4,24.429 29.572,24.258 29.572,24 C29.572,23.742 29.401,23.571 29.143,23.571 L29.143,23.571 Z M29.143,28.286 L18.857,28.286 C18.6,28.286 18.428,28.457 18.428,28.715 C18.428,28.973 18.599,29.144 18.857,29.144 L29.143,29.144 C29.4,29.144 29.572,28.973 29.572,28.715 C29.572,28.457 29.401,28.286 29.143,28.286 L29.143,28.286 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-circle-heart-solid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-84.000000, -612.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-circle-heart-solid" transform="translate(48.000000, 576.000000)">
+                    <g id="icon-grid-copy-82"></g>
+                    <path d="M24,12 C17.383,12 12,17.383 12,24 C12,30.617 17.383,36 24,36 C30.616,36 36,30.616 36,24 C36,17.384 30.616,12 24,12 L24,12 Z M24.294,30.404 C24.206,30.468 24.102,30.5 24,30.5 C23.896,30.5 23.793,30.468 23.705,30.404 C23.473,30.235 18,26.218 18,23.037 C18,20.823 19.639,19.5 21.223,19.5 C22.174,19.5 23.293,19.992 24,21.284 C24.705,19.992 25.825,19.5 26.776,19.5 C28.361,19.5 30,20.823 30,23.037 C30,26.218 24.526,30.235 24.294,30.404 L24.294,30.404 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

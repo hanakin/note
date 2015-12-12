@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-social-linkedin-solid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-133.000000, -86.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-social-linkedin-solid" transform="translate(96.000000, 48.000000)">
+                    <g id="icon-grid-copy-147"></g>
+                    <path d="M18.027,33.893 L13.027,33.893 L13.027,20.893 L18.027,20.893 L18.027,33.893 L18.027,33.893 Z M15.518,18.893 L15.488,18.893 C13.978,18.893 13,17.711 13,16.412 C13,15.083 14.008,14 15.547,14 C17.088,14 18.035,15.118 18.066,16.447 C18.065,17.747 17.088,18.893 15.518,18.893 L15.518,18.893 Z M27.027,24.893 C25.922,24.893 25.027,25.789 25.027,26.893 L25.027,33.893 L20.027,33.893 C20.027,33.893 20.086,21.893 20.027,20.893 L25.027,20.893 L25.027,22.378 C25.027,22.378 26.575,20.935 28.965,20.935 C31.927,20.935 34.027,23.079 34.027,27.239 L34.027,33.893 L29.027,33.893 L29.027,26.893 C29.027,25.789 28.132,24.893 27.027,24.893 L27.027,24.893 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

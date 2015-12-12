@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>noteicon-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-84.000000, -36.000000)" id="Group">
+            <g sketch:type="MSLayerGroup" transform="translate(24.000000, 24.000000)">
+                <g id="noteicon-up" transform="translate(48.000000, 0.000000)">
+                    <g id="icon-grid-copy-158"></g>
+                    <path d="M24,36 C17.378,36 12,30.622 12,24 C12,17.378 17.378,12 24,12 C30.622,12 36,17.378 36,24 C36,30.622 30.622,36 24,36 L24,36 Z M24,12.889 C17.867,12.889 12.889,17.867 12.889,24 C12.889,30.133 17.867,35.111 24,35.111 C30.133,35.111 35.111,30.133 35.111,24 C35.111,17.867 30.133,12.889 24,12.889 L24,12.889 Z M24,30.444 C23.733,30.444 23.556,30.266 23.556,30 L23.556,18.444 C23.556,18.177 23.734,18 24,18 C24.266,18 24.444,18.178 24.444,18.444 L24.444,30 C24.444,30.267 24.266,30.444 24,30.444 L24,30.444 Z M28.133,22.756 L24,18.623 L19.867,22.756 L19.245,22.134 L24.001,17.378 L28.757,22.134 L28.133,22.756 Z" id="Shape" fill="#FF4081" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

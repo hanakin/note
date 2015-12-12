@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="24px" viewBox="0 0 19 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-telescope</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-850.000000, -1153.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-telescope" transform="translate(48.000000, 528.000000)">
+                    <g id="icon-grid-copy-24"></g>
+                    <path d="M26,25.5 L30.5,34.5 L29,34.5 L26,28.5 L26,36 L24.5,36 L24.5,27 L21.5,34.5 L20,34.5 L23,27 L26,25.5 L26,25.5 Z M24.5,12 L23,12 L23,13.5 L24.5,13.5 L24.5,12 L24.5,12 Z M21.5,16.5 L20,16.5 L20,18 L21.5,18 L21.5,16.5 L21.5,16.5 Z M17,13.5 L15.5,13.5 L15.5,15 L17,15 L17,13.5 L17,13.5 Z M14.8330392,25.2708387 C14.5018298,25.5019003 14.4071985,25.9178111 14.596461,26.2644035 L15.4244845,27.6276668 C15.6137469,27.9742591 16.0395876,28.0897899 16.3944547,27.9280468 L18.5,26.9575882 L16.7493219,24 L14.8330392,25.2708387 L14.8330392,25.2708387 Z M26.8150826,17.5 L18,23.3384615 L19.8770661,26.5 L29.5,22.0230769 L26.8150826,17.5 L26.8150826,17.5 Z M32.9058384,19.0392083 L30.7807287,15.3684238 C30.5772607,15.0036253 30.1025022,14.8896258 29.7407814,15.1176248 L28,16.3260197 L30.6676909,21 L32.5893327,20.0652039 C32.973661,19.8828047 33.1093063,19.4268066 32.9058384,19.0392083 L32.9058384,19.0392083 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

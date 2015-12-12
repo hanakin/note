@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="17px" viewBox="0 0 24 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-device-camera-video</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-800.000000, -773.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-device-camera-video" transform="translate(0.000000, 144.000000)">
+                    <g id="icon-grid-copy-130"></g>
+                    <path d="M34.8046875,16.140625 L27,21.578125 L27,17.5 C27,16.6796875 26.3203125,16 25.5,16 L13.5,16 C12.6796875,16 12,16.6796875 12,17.5 L12,31 C12,31.8203125 12.6796875,32.5 13.5,32.5 L25.5,32.5 C26.3203125,32.5 27,31.8203125 27,31 L27,26.921875 L34.8046875,32.359375 C35.296875,32.7109375 36,32.359375 36,31.75 L36,16.75 C36,16.140625 35.296875,15.7890625 34.8046875,16.140625 L34.8046875,16.140625 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

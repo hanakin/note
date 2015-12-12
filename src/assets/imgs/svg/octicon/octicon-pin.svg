@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1233.000000, -1010.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-pin" transform="translate(432.000000, 384.000000)">
+                    <g id="icon-grid-copy-56"></g>
+                    <path d="M27.0365407,14.248671 L27.0365407,15.4472189 L27.7885708,16.951279 L21.0203004,21.4634593 L15.3095723,21.4634593 C14.651546,21.4634593 14.2990319,22.2624912 14.7925516,22.7560109 L19.5162403,27.4796996 L13.5,35 L21.0203004,28.9837597 L25.7439891,33.7074484 C26.2375088,34.2009681 27.0365407,33.848454 27.0365407,33.1904277 L27.0365407,27.4796996 L31.548721,20.7114292 L33.0527811,21.4634593 L34.251329,21.4634593 C34.9093552,21.4634593 35.2618693,20.6644273 34.7683496,20.1709076 L28.3290924,13.7316504 C27.8355727,13.2381307 27.0365407,13.5906448 27.0365407,14.248671 L27.0365407,14.248671 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

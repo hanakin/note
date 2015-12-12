@@ -1,41 +1,81 @@
 var marked = require('marked');
 var yaml = require('js-yaml');
 var Vue = require('vue');
+var VueRouter = require('vue-router');
+
 Vue.config.debug = true;
 Vue.use(require('vue-resource'));
+Vue.use(VueRouter);
+
+var router = new VueRouter();
 
 Vue.filter('marked', function (value) {
-  return marked(value);
+	return marked(value);
 });
 
 Vue.filter('yaml', function (value) {
-    return yaml.safeLoadAll(value);
+	return yaml.safeLoadAll(value);
 });
 
 new Vue({
-    el: '#app',
-    data: {
-        fullRepoName: '',
-        username: '',
-        repo: '',
-    },
-    methods: {
-        changeRepo: function() {
-            var splitData = this.fullRepoName.split('/');
-            this.username = splitData[0];
-            this.repo = splitData[1];
+	el: '#app',
 
-            console.group("Vue Data");
-            console.log("fullRepoName:", this.fullRepoName);
-            console.log("username:", this.username);
-            console.log("repo:", this.repo);
-            console.groupEnd("Vue Data");
-        }
-    },
-    components: {
-        githubFileExplorer: require('./components/github-file-explorer')
-    }
+	data: {
+		user: 'hanakin',
+		repo: 'midaym',
+		barnach: 'master',
+		folder: 'backup/posts',
+		posts: []
+	},
+
+	created: function() {
+		this.fetchPosts();
+	},
+
+	methods: {
+		fetchPosts: function() {
+			this.$http.get('https://api.github.com/repos/' + this.user + '/' + this.repo + '/contents/' + this.folder, 
+				function(data) {
+					for (post of data) {
+						post.date = this.getDate(data.path);
+						this.posts.push(post);
+					}
+
+					this.posts = this.sortPostbyDate(this.posts);
+				}.bind(this));
+		},
+		
+		getDate: function(file) {
+			this.$http.get('https://api.github.com/repos/' + this.user + '/' + this.repo + '/commits?path=' + file + '&per_page=1',
+				function(data) {
+					return data;
+				}
+			);
+		},
+		
+		sortPostbyDate: function(data) {
+			return data.sort(function(a, b) {
+        		return new Date(b.date) - new Date(a.date);;
+    		});
+		},
+		// getPosts: function(page) {}
+	},
+
+	components: {
+		posts: require('./components/posts'),
+		githubFileExplorer: require('./components/github-file-explorer')
+	}
 });
+
+// router.map({
+// 	'/': 		{ component: posts },
+// 	'/archive': { component: archive },
+// 	'/about': 	{ component: about },
+// 	'/contact': { component: contct },
+// 	'/post:id': { component: article }
+// });
+
+// router.start(App, '#app')
 
 // note: #CCFF90
 // facebook: #4862A3

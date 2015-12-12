@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="22px" viewBox="0 0 17 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>octicon-trashcan</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Octicons" sketch:type="MSArtboardGroup" transform="translate(-1139.000000, -1154.000000)">
+            <g id="icons" sketch:type="MSLayerGroup" transform="translate(788.000000, 613.000000)">
+                <g id="octicon-trashcan" transform="translate(336.000000, 528.000000)">
+                    <g id="icon-grid-copy-8"></g>
+                    <path d="M30.5,15 L27.5,15 C27.5,14.1796875 26.8203125,13.5 26,13.5 L21.5,13.5 C20.6796875,13.5 20,14.1796875 20,15 L17,15 C16.1796875,15 15.5,15.6796875 15.5,16.5 L15.5,18 C15.5,18.8203125 16.1796875,19.5 17,19.5 L17,33 C17,33.8203125 17.6796875,34.5 18.5,34.5 L29,34.5 C29.8203125,34.5 30.5,33.8203125 30.5,33 L30.5,19.5 C31.3203125,19.5 32,18.8203125 32,18 L32,16.5 C32,15.6796875 31.3203125,15 30.5,15 L30.5,15 Z M29,33 L18.5,33 L18.5,19.5 L20,19.5 L20,31.5 L21.5,31.5 L21.5,19.5 L23,19.5 L23,31.5 L24.5,31.5 L24.5,19.5 L26,19.5 L26,31.5 L27.5,31.5 L27.5,19.5 L29,19.5 L29,33 L29,33 Z M30.5,18 L17,18 L17,16.5 L30.5,16.5 L30.5,18 L30.5,18 Z" id="Shape" fill="#000000" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
