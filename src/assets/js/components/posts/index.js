@@ -1,14 +1,15 @@
-var github = require('github-api');
+// var github = require('github-api');
 
 module.exports = {
-	template: require('./template.html'),
-	
-	props: ['posts', 'user', 'repo', 'path', 'branch'],
+    template: require('./template.html'),
 
-	data: function() {
-		return {
-			posts: []
-		}
-	},
+    props: ['posts', 'user', 'repo', 'path', 'branch'],
 
-}
+    data: function() {
+        'use strict';
+        return {
+            posts: []
+        };
+    },
+
+};

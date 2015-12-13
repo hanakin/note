@@ -27070,9 +27070,9 @@ new Vue({
 
 	data: {
 		user: 'hanakin',
-		repo: 'midaym',
-		barnach: 'master',
-		folder: 'backup/posts',
+		repo: 'note',
+		branch: 'master',
+		folder: 'dist/posts',
 		posts: []
 	},
 
@@ -27082,10 +27082,12 @@ new Vue({
 
 	methods: {
 		fetchPosts: function () {
-			this.$http.get('https://api.github.com/repos/' + this.user + '/' + this.repo + '/contents/' + this.folder, (function (data) {
-				for (data of data) {
-					var post = {};
-					var contents = this.getFile(data.path).split('---');
+			var post = {};
+			var contents = [];
+
+			this.$http.get('https://api.github.com/repos/' + this.user + '/' + this.repo + '/contents/' + this.folder, (function (results) {
+				for (res of results) {
+					contents = this.getFile(res.path).split('---');
 
 					post = yaml(contents[0]);
 					post.content = contents[1];
@@ -27096,8 +27098,8 @@ new Vue({
 		},
 
 		getFile: function (file) {
-			this.$http.get(file, function (data) {
-				return data;
+			this.$http.get(file, function (result) {
+				return result;
 			});
 		},
 
@@ -27110,8 +27112,7 @@ new Vue({
 
 	// getPosts: function(page) {}
 	components: {
-		posts: require('./components/posts'),
-		githubFileExplorer: require('./components/github-file-explorer')
+		posts: require('./components/posts')
 	}
 });
 
@@ -27140,97 +27141,7 @@ new Vue({
 // pintrest: #DB242C
 // sketch: #F69D52
 
-},{"./components/github-file-explorer":54,"./components/posts":56,"js-yaml":3,"marked":42,"vue":52,"vue-resource":44,"vue-router":51}],54:[function(require,module,exports){
-module.exports = {
-	template: require('./template.html'),
-	data: function () {
-		return {
-			path: '/',
-			files: [],
-			content: '',
-			date: [],
-			settings: ''
-		};
-	},
-	props: {
-		username: {
-			type: String,
-			required: true
-		},
-		repo: {
-			type: String,
-			required: true
-		}
-	},
-	computed: {
-		fullRepoUrl: function () {
-			return this.username + '/' + this.repo;
-		},
-
-		sortedFiles: function () {
-			return this.files.slice(0).sort(function (a, b) {
-				if (a.type !== b.type) {
-					if (a.type === 'dir') {
-						return -1;
-					} else {
-						return 1;
-					}
-				} else {
-					if (a.name < b.name) {
-						return -1;
-					} else {
-						return 1;
-					}
-				}
-			});
-		}
-	},
-	methods: {
-		getFiles: function () {
-			this.$http.get('https://api.github.com/repos/' + this.fullRepoUrl + '/contents' + this.path, function (data) {
-				this.files = data;
-			});
-		},
-		changePath: function (path) {
-			this.path = '/' + path;
-			this.getFiles();
-			console.log(this.files);
-		},
-		goBack: function () {
-			this.path = this.path.split('/').slice(0, -1).join('/');
-			if (this.path === '') this.path = '/';
-
-			this.getFiles();
-		},
-		getDate: function (path) {
-			this.$http.get('https://api.github.com/repos/' + this.fullRepoUrl + '/commits?' + path + '&per_page=1', function (data) {
-				return data;
-			});
-		},
-		loadPost: function (raw, path) {
-			this.$http.get(raw, function (data) {
-				// this.settings = yaml.safeLoadAll(data.split('---')[0], function (data) {
-				//     return data;
-				// });
-				this.date = getDate(path);
-				this.content = data.split('---')[1];
-			});
-		}
-	},
-	watch: {
-		repo: function (newVal, oldVal) {
-			this.path = '/';
-			this.getFiles();
-		}
-	},
-	created: function () {
-		if (this.username && this.repo) this.getFiles();
-	}
-};
-
-},{"./template.html":55}],55:[function(require,module,exports){
-module.exports = '<div class="row m-b-md">\n	<div class="col-md-12">\n		<caption>{{ path }}</caption>\n	</div>\n	<div class="col-md-10">\n		<h5>Name</h5>\n	</div>\n	<div class="col-md-2">\n	   <button class="btn btn-success btn-sm pull-right" @click="goBack()" v-if="path !== \'/\'">Go Back</button>\n	</div>\n</div>\n<div class="row m-b-md">\n	<div class="col-md-12">\n		<div class="list-group">\n			<a href="{{ file.path }}" class="list-group-item directory" v-for="file in sortedFiles" v-if="file.type === \'dir\'" @click.prevent="changePath(file.path)">\n				<svg class="icon"><use xlink:href="#octicon-file-directory"></use></svg>  {{ file.name }}\n			</a>\n			<a href="#post" class="list-group-item file" v-for="file in sortedFiles" v-if="file.type === \'file\'" @click="loadPost(file.download_url, file.path)">\n				<svg class="icon"><use xlink:href="#octicon-file-code"></use></svg> {{ file.name }}\n				<svg class="icon pull-right"><use xlink:href="#octicon-eye"></use></svg> \n			</a>\n		</div>\n	</div>\n</div>\n<div class="row m-b-md">\n	<div class="col-md-12">\n		<h5 v-if="content">Posted on: {{ date.commit.committer.date }}</h5>\n	</div>\n	<div id="post" class="col-md-12 flow-text" v-if="content" v-html="content | marked"></div>\n</div>\n<div class="row">\n	<pre v-for="file in sortedFiles">{{ file | json 4 }}</pre>\n</div>\n';
-},{}],56:[function(require,module,exports){
+},{"./components/posts":54,"js-yaml":3,"marked":42,"vue":52,"vue-resource":44,"vue-router":51}],54:[function(require,module,exports){
 var github = require('github-api');
 
 module.exports = {
@@ -27246,7 +27157,7 @@ module.exports = {
 
 };
 
-},{"./template.html":57,"github-api":1}],57:[function(require,module,exports){
+},{"./template.html":55,"github-api":1}],55:[function(require,module,exports){
 module.exports = '	<a href="" class="post">\n		<svg class="icon icon-lg post-category">\n			<use xlink:href="#{{ post.category }}"></use>\n		</svg>\n		<h2 class="post-title">\n			<time class="post-date">{{ post.date }}</time>\n			{{ post.title }}\n			<small class="post-title-sub">{{ post.sub }}</small>\n		</h2>\n	</a>';
 },{}]},{},[53]);
 

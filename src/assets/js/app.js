@@ -9,73 +9,79 @@ Vue.use(VueRouter);
 
 var router = new VueRouter();
 
-Vue.filter('marked', function (value) {
-	return marked(value);
+Vue.filter('marked', function(value) {
+    'use strict';
+    return marked(value);
 });
 
-new Vue({
-	el: '#app',
+var App = new Vue({
+    el: '#app',
 
-	data: {
-		user: 'hanakin',
-		repo: 'midaym',
-		barnach: 'master',
-		folder: 'backup/posts',
-		posts: []
-	},
+    data: {
+        user: 'hanakin',
+        repo: 'note',
+        branch: 'master',
+        folder: 'dist/posts',
+        posts: []
+    },
 
-	created: function() {
-		this.fetchPosts();
-	},
+    created: function() {
+        'use strict';
+        this.fetchPosts();
+    },
 
-	methods: {
-		fetchPosts: function() {
-			this.$http.get('https://api.github.com/repos/' + this.user + '/' + this.repo + '/contents/' + this.folder, 
-				function(data) {
-					for (data of data) {
-						var post = {};
-						var contents = this.getFile(data.path).split('---');
+    methods: {
+        fetchPosts: function() {
+            'use strict';
+            var post = {};
+            var contents = [];
 
-						post = yaml(contents[0]);
-						post.content = contents[1];
+            this.$http.get('https://api.github.com/repos/' + this.user + '/' + this.repo + '/contents/' + this.folder,
+            function(results) {
+                var res = {};
+                for (res of results) {
+                    contents = this.getFile(res.path).split('---');
 
-						this.posts.push(post);
-					}
-				}.bind(this)
-			);
-		},
-		
-		getFile: function(file) {
-			this.$http.get(file,
-				function(data) {
-					return data;
-				}
-			);
-		},
-		
-		sortPostbyDate: function(data) {
-			return data.sort(function(a, b) {
-        		return new Date(b.date) - new Date(a.date);;
-    		});
-		},
-		// getPosts: function(page) {}
-	},
+                    post = yaml(contents[0]);
+                    post.content = contents[1];
 
-	components: {
-		posts: require('./components/posts'),
-		githubFileExplorer: require('./components/github-file-explorer')
-	}
+                    this.posts.push(post);
+                }
+            }.bind(this));
+        },
+
+        getFile: function(file) {
+            'use strict';
+            this.$http.get(file,
+                function(result) {
+                    return result;
+                }
+            );
+        },
+
+        sortPostbyDate: function(data) {
+            'use strict';
+            return data.sort(function(a, b) {
+                return new Date(b.date) - new Date(a.date);
+            });
+        },
+        // getPosts: function(page) {}
+    },
+
+    components: {
+        posts: require('./components/posts'),
+    }
 });
 
-// router.map({
-// 	'/': 		{ template: require('index.jade') },
-// 	'/archive': { template: require('archive.jade') },
-// 	'/about': 	{ template: require('about.jade') },
-// 	'/contact': { template: require('contact.jade') },
-// 	'/post:id': { template: require('single.jade') }
-// });
+router.map({
+    '/':        { template: require('../../index.jade') },
+    '/archive': { template: require('../../archive.jade') },
+    '/about':   { template: require('../../about.jade') },
+    '/contact': { template: require('../../contact.jade') },
+    '/post:id': { template: require('../../single.jade') }
+});
 
-// router.start(App, '#app')
+router.start(App, '#app');
 
 // note: #CCFF90
 // facebook: #4862A3
@@ -91,4 +97,3 @@ new Vue({
 // skype: #00AFF0
 // pintrest: #DB242C
 // sketch: #F69D52
-
