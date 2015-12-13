@@ -35,43 +35,26 @@ a .icon { color: inherit; }
 
 .navbar {
 	padding: 0;
-	height: 56px;
-	line-height: 56px;
-	border-bottom: 1px solid #e5e5e5;
-
-	.nav-link {
-		padding: 0 1rem;
-		margin: 0;
-		.icon { color: #333333; }
-
-		&:hover, &.active {
-			background-color: #4078c0;
-			.icon { 
-				color: #FFFFFF;
-				// transition: background-color .3s;
-			}
-			// transition: background-color .3s;
-		}
-	}
+	height: 3.5rem;
+	line-height: 3.5rem;
 }
 
-.navbar-light .navbar-brand,
+.navbar .nav-link {
+	font-size: 1rem;
+	padding: 0 1rem;
+	margin: 0;
+	transition: color .3s
+}
+
+.navbar .nav-item:hover,
+.navbar .nav-item:focus {
+	background-color: lighten(#0275d8, 24%);
+	transition: background-color .3s
+}
+
 .navbar-brand {
-	color: #333333;
 	padding: 0;
 	margin: 0;
-	font-size: 32px;
-	
-	.icon {
-		vertical-align: -8%;
-		margin-right: 8px;
-	}
-
-	&:hover,
-	&:focus {
-		color: #4078c0;
-		.icon { color: #4078c0; }
-	}
 }
 
 .navbar-nav .nav-item + .nav-item { margin: 0; }
