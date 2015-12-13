@@ -13,10 +13,6 @@ Vue.filter('marked', function (value) {
 	return marked(value);
 });
 
-Vue.filter('yaml', function (value) {
-	return yaml.safeLoadAll(value);
-});
-
 new Vue({
 	el: '#app',
 
@@ -36,17 +32,21 @@ new Vue({
 		fetchPosts: function() {
 			this.$http.get('https://api.github.com/repos/' + this.user + '/' + this.repo + '/contents/' + this.folder, 
 				function(data) {
-					for (post of data) {
-						post.date = this.getDate(data.path);
+					for (data of data) {
+						var post = {};
+						var contents = this.getFile(data.path).split('---');
+
+						post = yaml(contents[0]);
+						post.content = contents[1];
+
 						this.posts.push(post);
 					}
-
-					this.posts = this.sortPostbyDate(this.posts);
-				}.bind(this));
+				}.bind(this)
+			);
 		},
 		
-		getDate: function(file) {
-			this.$http.get('https://api.github.com/repos/' + this.user + '/' + this.repo + '/commits?path=' + file + '&per_page=1',
+		getFile: function(file) {
+			this.$http.get(file,
 				function(data) {
 					return data;
 				}
@@ -68,11 +68,11 @@ new Vue({
 });
 
 // router.map({
-// 	'/': 		{ component: posts },
-// 	'/archive': { component: archive },
-// 	'/about': 	{ component: about },
-// 	'/contact': { component: contct },
-// 	'/post:id': { component: article }
+// 	'/': 		{ template: require('index.jade') },
+// 	'/archive': { template: require('archive.jade') },
+// 	'/about': 	{ template: require('about.jade') },
+// 	'/contact': { template: require('contact.jade') },
+// 	'/post:id': { template: require('single.jade') }
 // });
 
 // router.start(App, '#app')
